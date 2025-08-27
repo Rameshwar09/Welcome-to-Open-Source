@@ -58,6 +58,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
+                <a href="https://www.linkedin.com/in/rameshwar-39a21923a/">
+                    <img src="https://avatars.githubusercontent.com/u/107783092?v=4" width="100px;"
+                        alt="Rameshwar Shinde" />
+                    <br />
+                    <sub>
+                        <b>Rameshwar Shinde</b>
+                    </sub>
+                </a>
+            </td>
+        <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
